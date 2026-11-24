@@ -27,6 +27,9 @@ The project is designed to provide a modern navigation experience while maintain
 
 ## Preview
 
+![AWLXDEV Responsive Navbar Preview](docs/screenshots/navbar-preview.png)
+
+*Preview of the AWLXDEV Responsive Navbar interface.*
 The project is developed as a standalone navbar component and can be run locally using Vite.
 
 ## Technology Stack
@@ -178,3 +181,4 @@ GitHub: https://github.com/awlxdev
 ---
 
 Designed and developed by **AWLXDEV**.
+
